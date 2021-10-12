@@ -1,0 +1,3 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PureLayout.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/R_category.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TZImagePickerController.framework

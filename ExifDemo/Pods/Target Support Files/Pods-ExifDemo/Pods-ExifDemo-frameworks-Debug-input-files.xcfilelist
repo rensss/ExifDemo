@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-ExifDemo/Pods-ExifDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework
+${BUILT_PRODUCTS_DIR}/R_category/R_category.framework
+${BUILT_PRODUCTS_DIR}/TZImagePickerController/TZImagePickerController.framework

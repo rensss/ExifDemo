@@ -1,0 +1,24 @@
+PODS:
+  - PureLayout (3.1.4)
+  - R_category (0.0.9)
+  - TZImagePickerController (3.6.6)
+
+DEPENDENCIES:
+  - PureLayout (= 3.1.4)
+  - R_category
+  - TZImagePickerController
+
+SPEC REPOS:
+  trunk:
+    - PureLayout
+    - R_category
+    - TZImagePickerController
+
+SPEC CHECKSUMS:
+  PureLayout: f08c01b8dec00bb14a1fefa3de4c7d9c265df85e
+  R_category: 4b6a2f491cc1cbbd6440342123a9f75855c9f96f
+  TZImagePickerController: edf61b8e87f26e3e445aa50eb66254bd7f4859db
+
+PODFILE CHECKSUM: 9268b19cc1d5bc8efe713486fa2a46ae16bf3529
+
+COCOAPODS: 1.11.2
